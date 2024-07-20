@@ -1,1 +1,0 @@
-import{a4 as r,a5 as i,f as n}from"./index-b8509db6.js";function o(e){e===void 0&&(e=r);var t=e===r?i:function(){return n.useContext(e)};return function(){var u=t(),a=u.store;return a}}var f=o();function v(e){e===void 0&&(e=r);var t=e===r?f:o(e);return function(){var u=t();return u.dispatch}}var d=v();export{d as u};
